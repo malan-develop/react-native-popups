@@ -1,0 +1,26 @@
+{
+  "name": "react-native-popups",
+  "version": "0.0.1",
+  "description": "A simple React Native component for popup dialogs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: test is not supported\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeYoungIn/react-native-popups.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Lee Young In",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeYoungIn/react-native-popups/issues"
+  },
+  "homepage": "https://github.com/LeeYoungIn/react-native-popups#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1",
+    "react": "^16.8.4"
+  }
+}
