@@ -19,7 +19,7 @@ import { Popup } from 'react-native-popups'
 
 ###PopMenu.Item
 | Prop                 |                             Default                             |       Type        | Description                                   |
-| :------------------- |                            :-------:                            | :---------------: | --------------------------------------------- |
+| :------------------- | :-------------------------------------------------------------: | :---------------: | --------------------------------------------- |
 | style                | `{alignItems: 'center', justifyContent: 'center', padding: 15}` |      `Style`      | Item's <TouchableHighlight/> style            |
 | text                 |                                -                                |     `string`      | Text of the item                              |
 | props                |                                -                                |      `Props`      | React Native <TouchableHighlight/> props      |

@@ -4,14 +4,16 @@
   "description": "A simple React Native component for popup dialogs.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\"Error: test is not supported\\\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LeeYoungIn/react-native-popups.git"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react-native-popup",
+    "react-native-dialogs"
   ],
   "author": "Lee Young In",
   "license": "ISC",
