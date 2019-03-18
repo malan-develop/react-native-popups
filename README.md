@@ -1,11 +1,5 @@
 # react-native-popups
 
-<p align="center">
-    <img align="left" width="400" src="https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen2.png">
-</p>
-
----
-
 ## Installation
 ```sh
 npm i -S react-native-popups
@@ -45,3 +39,7 @@ import { Popup } from 'react-native-popups'
     <Text>Item 3<Text>
 </PopMenu>
 ```
+
+<p align="center">
+    <img align="left" width="400" src="https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen2.png">
+</p>
