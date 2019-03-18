@@ -1,10 +1,7 @@
 # react-native-popups
 
-<div style="width:50%">
-![](https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen1.png)
-</div><div style="width:50%">
-![](https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen2.png)
-</div>
+<img align="left" width="200" src="https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen1.png">
+<img align="left" width="200" src="https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen2.png">
 
 ## Installation
 ```sh
