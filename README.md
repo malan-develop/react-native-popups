@@ -1,7 +1,7 @@
 # react-native-popups
 
 <p align="center">
-    <img align="left" width="50%" src="https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen2.png">
+    <img align="left" width="400" src="https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen2.png">
 </p>
 
 ---
