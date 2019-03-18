@@ -1,7 +1,6 @@
 # react-native-popups
 
-<p style="display:flex;flex-direction:column;">
-    <img align="left" width="50%" src="https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen1.png">
+<p align="center">
     <img align="left" width="50%" src="https://github.com/LeeYoungIn/react-native-popups/blob/master/screenshot/Screen2.png">
 </p>
 
