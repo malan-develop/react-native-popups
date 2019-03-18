@@ -17,7 +17,7 @@ import { Popup } from 'react-native-popups'
 | title                |     -     |     `string`      | Title of PopMenu                                           |
 | visible              |  `false`  |      `bool`       | PopMenu visible                                            |
 
-###PopMenu.Item
+### PopMenu.Item
 | Prop                 |                             Default                             |       Type        | Description                                   |
 | :------------------- | :-------------------------------------------------------------: | :---------------: | --------------------------------------------- |
 | style                | `{alignItems: 'center', justifyContent: 'center', padding: 15}` |      `Style`      | Item's <TouchableHighlight/> style            |
